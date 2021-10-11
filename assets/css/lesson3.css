@@ -1,0 +1,8 @@
+body{
+    background: rgb(0,224,255);
+    background: linear-gradient(90deg, rgba(0,224,255,0.9976191160057774) 13%, rgba(0,0,0,0.9163866230085784) 30%, rgba(0,220,233,1) 46%, rgba(0,0,0,1) 58%, rgba(0,0,0,0.9135855025603992) 59%, rgba(12,238,243,1) 71%, rgba(0,20,13,1) 88%); 
+}
+table{
+    border-collapse: collapse;
+   border: 1px solid grey;
+}

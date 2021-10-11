@@ -1,0 +1,25 @@
+body{
+    font-size: x-large;
+}
+td{
+    text-align: center;
+border-left: 10px solid rgb(187, 255, 255);
+height: 100px width 1000px ;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+table{
+   margin-left: 300px;
+}
+td:hover{
+    border-left: 10px solid rgb(196, 248, 248);
+}
+span{
+    color: brown;
+}
